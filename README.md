@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MatBr173
+- 👋 Hi, I’m @MatBr173 / Matheus
 - 👀 I’m interested in be a backend dev
 - 🌱 I’m currently learning Python, C# and HTML-CSS
 - 💞️ I’m looking to collaborate on ...
