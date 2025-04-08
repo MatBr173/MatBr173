@@ -2,7 +2,7 @@
 - 👀 I’m interested in be a backend dev
 - 🌱 I’m currently learning Python, C# and HTML-CSS
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: @MatBR173 - instagram
+- 📫 How to reach me: MatBR173 - instagram
 - 😄 Pronouns: I don't care about that
 - ⚡ Fun fact: English beginner, apprentice programmer
 
